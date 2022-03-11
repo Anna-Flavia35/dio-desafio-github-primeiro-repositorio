@@ -1,0 +1,9 @@
+# Criar pasta no meu repositório local
+Criar arquivo .txt
+
+## Git--> GitHub(simplificado):
+git add. (ou git add-a)
+git status
+git commit -m "     "
+git status
+git push origin main
